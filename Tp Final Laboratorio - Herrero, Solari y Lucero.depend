@@ -1,0 +1,728 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\marina\desktop\proyecto unido\proyecto unido\pila.c
+	"pila.h"
+
+1490112217 c:\users\marina\desktop\proyecto unido\proyecto unido\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655904774 source:c:\users\marina\desktop\proyecto unido\proyecto unido\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+
+1490112217 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\pila.c
+	"pila.h"
+
+1490112217 c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655929398 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1655922202 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1655922202 c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\clientes.h
+
+1655922202 c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\pedidos.h
+
+1655922203 c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\listados.h
+
+1655922202 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1655922252 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\proyecto unido final\proyecto unido final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656169713 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655922202 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.h
+
+1655922202 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.h
+
+1655922203 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.h
+
+1656170839 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656171478 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.c
+	"pila.h"
+
+1656003129 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656002719 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655922202 c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.h
+
+1655922202 c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.h
+
+1655922203 c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.h
+
+1656003129 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656003189 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656006265 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.c
+	"pila.h"
+
+1656011480 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655922202 c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.h
+
+1655922202 c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.h
+
+1655922203 c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.h
+
+1656003129 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.c
+	"pila.h"
+
+1656011174 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656011938 source:c:\users\marina\documents\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656175089 source:c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655922202 c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.h
+
+1655922202 c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.h
+
+1655922203 c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.h
+
+1656003129 source:c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656171478 source:c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.c
+	"pila.h"
+
+1656170839 source:c:\users\marina\videos\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656023190 source:c:\users\usuario\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 c:\users\usuario\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655922202 c:\users\usuario\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.h
+
+1655922202 c:\users\usuario\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.h
+
+1655922203 c:\users\usuario\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.h
+
+1656003129 source:c:\users\usuario\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656023549 source:c:\users\usuario\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\usuario\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.c
+	"pila.h"
+
+1656175089 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655922202 c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\clientes.h
+
+1655922202 c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.h
+
+1655922203 c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.h
+
+1656003129 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656176325 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656171478 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\desktop\utn\programacion\tp final laboratorio\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\herrero-lucero-solari tp final laboratorio i\pila.c
+	"pila.h"
+
+1656971684 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+	<windows.h>
+
+1490112217 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1656959994 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\clientes.h
+
+1656974533 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\pedidos.h
+
+1655922203 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\listados.h
+
+1656974800 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656977863 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+	<windows.h>
+
+1656976486 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i\pila.c
+	"pila.h"
+
+1656971684 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+	<windows.h>
+
+1490112217 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1656959994 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\clientes.h
+
+1656974533 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pedidos.h
+
+1655922203 c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\listados.h
+
+1656974800 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656977863 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+	<windows.h>
+
+1656978894 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\desktop\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pila.c
+	"pila.h"
+
+1656971684 source:c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+	<windows.h>
+
+1490112217 c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1656959994 c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\clientes.h
+
+1656974533 c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pedidos.h
+
+1655922203 c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\listados.h
+
+1656974800 source:c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1656977863 source:c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+	<windows.h>
+
+1656978894 source:c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\desktop\utn\programacion\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pila.c
+	"pila.h"
+
+1656971684 source:c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+	<windows.h>
+
+1490112217 c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1656959994 c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\clientes.h
+
+1656974533 c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pedidos.h
+
+1655922203 c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\listados.h
+
+1656974800 source:c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\listados.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1666809558 source:c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+	<windows.h>
+
+1656978894 source:c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pedidos.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"math.h"
+	<time.h>
+	"Clientes.h"
+	"Pedidos.h"
+	"Listados.h"
+
+1490112217 source:c:\users\marina\desktop\utn\progr  y lab ii\herrero-lucero-solari tp final laboratorio i - version corregida vacaciones\pila.c
+	"pila.h"
+
